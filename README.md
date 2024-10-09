@@ -1,4 +1,4 @@
-# VLOOKUP
+# Alexander Turner - VLOOKUP example
 # How to use VLOOKUP function in EXCEL
 
 VLOOKUP is one of Excel's most powerful Lokup functions.
