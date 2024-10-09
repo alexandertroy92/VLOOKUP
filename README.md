@@ -26,3 +26,7 @@ VLOOKUP Command: =VLOOKUP(
 3rd parameter we will enter the position number in the table where the return value can be found. Since we are looking for the name of a product we will eneter 2 which represents cells B1:B6
 
 ![image](https://github.com/user-attachments/assets/53033de5-d2d3-4d85-a857-98c7577c273b)
+
+4th parameter and most important, this parameter determines weather an exact match or an approximate match will be done when looking for the first parameter. FALSE = exact match. TRUE = approximate match
+
+![image](https://github.com/user-attachments/assets/1280bbac-7159-4ff0-bf18-2f7c45d8eb04)
