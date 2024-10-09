@@ -22,3 +22,7 @@ VLOOKUP Command: =VLOOKUP(
 2nd parameter we need to enter the source of the data VLOOKUP will use. The range provided must include both the first column that will be searched for our first parameter value and second the column containing our hopeful result. We will need to proivde a range of cells for this parameter. For this example we will enter range A1:B6.
 
 ![image](https://github.com/user-attachments/assets/244019b3-f3aa-4b12-bb53-58dddaee5b3c)
+
+3rd parameter we will enter the position number in the table where the return value can be found. Since we are looking for the name of a product we will eneter 2 which represents cells B1:B6
+
+![image](https://github.com/user-attachments/assets/53033de5-d2d3-4d85-a857-98c7577c273b)
